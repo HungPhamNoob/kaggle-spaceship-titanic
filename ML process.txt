@@ -1,0 +1,5 @@
+4 main steps:
+1. Data understanding
+2. Data preparation
+3. Modeling
+4. Deployment
