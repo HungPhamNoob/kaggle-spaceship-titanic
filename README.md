@@ -1,7 +1,11 @@
 # 🛸 Spaceship Titanic – Classification Challenge
 
-Predict which passengers on the Spaceship Titanic were transported to another dimension.  
-This repository contains my workflow for **data understanding**, **feature engineering**, **model training**, and **submission** to the [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview).
+Predict which passengers on the **Spaceship Titanic** were transported to another dimension.  
+
+---
+
+## 📚 Resources
+Datasets: [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview).
 
 ---
 
